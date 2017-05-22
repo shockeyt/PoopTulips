@@ -1,0 +1,2525 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"Project-Id-Version: Gecko\n"
+"POT-Creation-Date: 2017-05-14 18:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ../../../..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Language: "
+
+#: 404.php:15
+msgid "Sorry! Page you are looking can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:16
+msgid "Go back to the "
+msgstr ""
+
+#: 404.php:16
+msgid "homepage"
+msgstr ""
+
+#: comments.php:25
+msgctxt "comments title"
+msgid "Comment (1)"
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "Comment (%1$s)"
+msgid_plural "Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:69
+msgid "Your comment *"
+msgstr ""
+
+#: comments.php:74
+msgid "Your name *"
+msgstr ""
+
+#: comments.php:77
+msgid "Your email *"
+msgstr ""
+
+#: comments.php:80
+msgid "Your website"
+msgstr ""
+
+#: comments.php:86
+msgid "Leave your comment"
+msgstr ""
+
+#: comments.php:89
+msgid "Submit"
+msgstr ""
+
+#: single.php:40
+msgid "Pages:"
+msgstr ""
+
+#: single.php:44 core/libraries/janstudio/hooks/helper.php:448
+msgid "Page"
+msgstr ""
+
+#: single.php:51
+msgid "Leave a comment"
+msgstr ""
+
+#: single.php:51 views/post/content-masonry.php:23
+msgid "1 Comment"
+msgstr ""
+
+#: single.php:51 views/post/content-masonry.php:23
+msgid "% Comments"
+msgstr ""
+
+#: views/header/layout-1.php:64 views/header/layout-2.php:105 
+#: views/header/layout-3.php:83 views/header/layout-4.php:85 
+#: views/header/layout-5.php:76 views/header/layout-6.php:71 
+#: views/header/layout-7.php:52
+msgid "Search for..."
+msgstr ""
+
+#: views/header/layout-1.php:70 views/header/layout-2.php:112 
+#: views/header/layout-3.php:90 views/header/layout-4.php:92 
+#: views/header/layout-5.php:83 views/header/layout-6.php:78
+msgid "Menu"
+msgstr ""
+
+#: views/header/layout-1.php:99 views/header/layout-2.php:141 
+#: views/header/layout-3.php:119 views/header/layout-4.php:121 
+#: views/header/layout-5.php:112 views/header/layout-6.php:107 
+#: views/header/layout-7.php:44
+msgid "Mini Cart"
+msgstr ""
+
+#: views/header/layout-2.php:67 views/header/layout-2.php:89 
+#: views/header/layout-3.php:58 views/header/layout-4.php:60 
+#: views/header/layout-5.php:69 views/header/layout-6.php:27
+msgid "Add Menu"
+msgstr ""
+
+#: views/post/content-masonry.php:23
+msgid "0 Comment"
+msgstr ""
+
+#: views/post/content-masonry.php:25
+msgid "Read more"
+msgstr ""
+
+#: views/post/content-none.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: views/post/content-none.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: views/post/content-single.php:30 views/post/content.php:16
+#, php-format
+msgid "Read more<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: views/post/latest.php:37 core/libraries/janstudio/hooks/helper.php:597
+msgid "The photos should be at least 370px x 210px"
+msgstr ""
+
+#: core/admin/classes/framework.class.php:175
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: core/admin/classes/framework.class.php:180
+msgid "Default options restored."
+msgstr ""
+
+#: core/admin/classes/framework.class.php:199
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: core/admin/classes/framework.class.php:366
+msgid "Settings saved."
+msgstr ""
+
+#: core/admin/classes/framework.class.php:367
+msgid "Save"
+msgstr ""
+
+#: core/admin/classes/framework.class.php:367
+msgid "Saving..."
+msgstr ""
+
+#: core/admin/classes/framework.class.php:368
+msgid "Restore"
+msgstr ""
+
+#: core/admin/classes/framework.class.php:370
+msgid "Reset All Options"
+msgstr ""
+
+#: core/admin/classes/framework.class.php:373
+msgid "show all options"
+msgstr ""
+
+#: core/admin/classes/options.class.php:125
+msgid "CONFIG"
+msgstr ""
+
+#: core/admin/classes/options.class.php:131 
+#: core/admin/classes/options.class.php:151
+msgid "USAGE"
+msgstr ""
+
+#: core/admin/classes/options.class.php:137
+msgid "VALUE"
+msgstr ""
+
+#: core/admin/classes/options.class.php:155 
+#: core/libraries/vendors/visual-composer/maps/products.php:79
+msgid "ID"
+msgstr ""
+
+#: core/admin/classes/shortcode.class.php:82 
+#: core/admin/classes/shortcode.class.php:90 
+#: core/admin/fields/textarea/textarea.php:27
+msgid "Add Shortcode"
+msgstr ""
+
+#: core/admin/classes/shortcode.class.php:92
+msgid "Select a shortcode"
+msgstr ""
+
+#: core/admin/classes/shortcode.class.php:108
+msgid "Insert Shortcode"
+msgstr ""
+
+#: core/admin/config/framework.config.php:9
+msgid "Theme Options"
+msgstr ""
+
+#: core/admin/config/framework.config.php:38
+msgid "General Layout"
+msgstr ""
+
+#: core/admin/config/framework.config.php:44
+msgid "Content Width"
+msgstr ""
+
+#: core/admin/config/framework.config.php:45
+msgid "Set the maximum allowed width for content"
+msgstr ""
+
+#: core/admin/config/framework.config.php:52
+msgid "Enable Boxed Layout"
+msgstr ""
+
+#: core/admin/config/framework.config.php:57 
+#: core/admin/config/framework.config.php:108 
+#: core/admin/config/framework.config.php:224 
+#: core/admin/config/framework.config.php:1045
+msgid "Background"
+msgstr ""
+
+#: core/admin/config/framework.config.php:63
+msgid "Custom CSS Style"
+msgstr ""
+
+#: core/admin/config/framework.config.php:64
+msgid ""
+"Paste your CSS code here. Do not place any &lt;style&gt; tags in these areas "
+"as they are already added for your convenience"
+msgstr ""
+
+#: core/admin/config/framework.config.php:70
+msgid "Custom JS Code"
+msgstr ""
+
+#: core/admin/config/framework.config.php:71
+msgid ""
+"Paste your Javscript code here. You can add your Google Analytics Code here. "
+"Do not place any &lt;script&gt; tags in these areas as they are already "
+"added for your convenience."
+msgstr ""
+
+#: core/admin/config/framework.config.php:83
+msgid "Header"
+msgstr ""
+
+#: core/admin/config/framework.config.php:89 
+#: core/admin/config/framework.config.php:213 
+#: core/admin/config/framework.config.php:434 
+#: core/admin/config/framework.config.php:640 
+#: core/admin/config/framework.config.php:707
+msgid "Layout"
+msgstr ""
+
+#: core/admin/config/framework.config.php:114
+msgid "Enable Header Sticky"
+msgstr ""
+
+#: core/admin/config/framework.config.php:121
+msgid "Enable Header Transparent"
+msgstr ""
+
+#: core/admin/config/framework.config.php:127
+msgid "Logo Settings"
+msgstr ""
+
+#: core/admin/config/framework.config.php:132
+msgid "Logo"
+msgstr ""
+
+#: core/admin/config/framework.config.php:133 
+#: core/admin/config/framework.config.php:141 
+#: core/admin/config/framework.config.php:149 
+#: core/admin/config/framework.config.php:157 
+#: core/admin/fields/background/background.php:33 
+#: core/admin/fields/background/background.php:34 
+#: core/admin/fields/upload/upload.php:23 
+#: core/admin/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: core/admin/config/framework.config.php:139
+msgid "Logo Retina"
+msgstr ""
+
+#: core/admin/config/framework.config.php:140
+msgid "Upload logo for retina devices, mobile devices"
+msgstr ""
+
+#: core/admin/config/framework.config.php:147
+msgid "Transparent Header Logo"
+msgstr ""
+
+#: core/admin/config/framework.config.php:148
+msgid "Add logo for transparent header layout"
+msgstr ""
+
+#: core/admin/config/framework.config.php:155
+msgid "Transparent Header Logo Retina"
+msgstr ""
+
+#: core/admin/config/framework.config.php:156
+msgid ""
+"Add logo for transparent header layout for retina devices, mobile devices"
+msgstr ""
+
+#: core/admin/config/framework.config.php:163
+msgid "Logo Max Width"
+msgstr ""
+
+#: core/admin/config/framework.config.php:165 
+#: core/admin/config/framework.config.php:284 
+#: core/admin/config/framework.config.php:291 
+#: core/admin/config/metabox.config.php:54 
+#: core/admin/config/metabox.config.php:61 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:65 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:84 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:97 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:116 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:129
+msgid "Defined in pixels. Do not add the 'px' unit."
+msgstr ""
+
+#: core/admin/config/framework.config.php:169
+msgid "Header Top Settings"
+msgstr ""
+
+#: core/admin/config/framework.config.php:174
+msgid "Header left content"
+msgstr ""
+
+#: core/admin/config/framework.config.php:175 
+#: core/admin/config/framework.config.php:183 
+#: core/admin/config/framework.config.php:190
+msgid "HTML, shortcode is allowed"
+msgstr ""
+
+#: core/admin/config/framework.config.php:182
+msgid "Center promo text"
+msgstr ""
+
+#: core/admin/config/framework.config.php:189
+msgid "Header right content"
+msgstr ""
+
+#: core/admin/config/framework.config.php:196
+msgid "Enable Currency Switcher"
+msgstr ""
+
+#: core/admin/config/framework.config.php:207
+msgid "Footer"
+msgstr ""
+
+#: core/admin/config/framework.config.php:229
+msgid "Footer Background Overlay Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:235
+msgid "Copyright Text"
+msgstr ""
+
+#: core/admin/config/framework.config.php:236
+msgid "HTML is allowed"
+msgstr ""
+
+#: core/admin/config/framework.config.php:253 
+#: core/libraries/vendors/visual-composer/maps/product.php:17 
+#: core/libraries/vendors/visual-composer/maps/products.php:33 
+#: core/libraries/vendors/visual-composer/maps/wc-categories.php:15
+msgid "WooCommerce"
+msgstr ""
+
+#: core/admin/config/framework.config.php:259 
+#: core/admin/config/framework.config.php:264 
+#: core/admin/config/framework.config.php:577
+msgid "General Setting"
+msgstr ""
+
+#: core/admin/config/framework.config.php:269
+msgid "Enable Page Title"
+msgstr ""
+
+#: core/admin/config/framework.config.php:275 
+#: core/admin/config/framework.config.php:589 
+#: core/admin/config/framework.config.php:743
+msgid "Page Title"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: core/admin/config/framework.config.php:276
+msgid "Gecko"
+msgstr ""
+
+#: core/admin/config/framework.config.php:282 
+#: core/admin/config/metabox.config.php:52
+msgid "Padding top"
+msgstr ""
+
+#: core/admin/config/framework.config.php:289 
+#: core/admin/config/metabox.config.php:59
+msgid "Padding bottom"
+msgstr ""
+
+#: core/admin/config/framework.config.php:296
+msgid "Description"
+msgstr ""
+
+#: core/admin/config/framework.config.php:297
+msgid "Online fashion, furniture, handmade... store"
+msgstr ""
+
+#: core/admin/config/framework.config.php:303 
+#: core/admin/config/framework.config.php:603 
+#: core/admin/config/framework.config.php:755
+msgid "Page Title Background"
+msgstr ""
+
+#: core/admin/config/framework.config.php:309
+msgid "Enable Catalog Mode"
+msgstr ""
+
+#: core/admin/config/framework.config.php:317
+msgid "Sub Category Setting"
+msgstr ""
+
+#: core/admin/config/framework.config.php:322
+msgid "Sub Category"
+msgstr ""
+
+#: core/admin/config/framework.config.php:327
+msgid "Sub-Categories Layout"
+msgstr ""
+
+#: core/admin/config/framework.config.php:328
+msgid "Display sub-categories as grid or masonry"
+msgstr ""
+
+#: core/admin/config/framework.config.php:339 
+#: core/admin/config/framework.config.php:627 
+#: core/admin/config/framework.config.php:760 
+#: core/libraries/vendors/visual-composer/maps/blog.php:47 
+#: core/libraries/vendors/visual-composer/maps/instagram.php:38 
+#: core/libraries/vendors/visual-composer/maps/portfolio.php:30 
+#: core/libraries/vendors/visual-composer/maps/products.php:206 
+#: core/libraries/vendors/visual-composer/maps/wc-categories.php:20
+msgid "Columns"
+msgstr ""
+
+#: core/admin/config/framework.config.php:340
+msgid "Display number of sub-category per row"
+msgstr ""
+
+#: core/admin/config/framework.config.php:354
+msgid "Product Listing Setting"
+msgstr ""
+
+#: core/admin/config/framework.config.php:359
+msgid "Product Listing"
+msgstr ""
+
+#: core/admin/config/framework.config.php:364 
+#: core/admin/config/framework.config.php:616 
+#: core/libraries/vendors/visual-composer/maps/blog.php:31
+msgid "Style"
+msgstr ""
+
+#: core/admin/config/framework.config.php:365
+msgid "Display product listing as grid or masonry"
+msgstr ""
+
+#: core/admin/config/framework.config.php:376
+msgid "Pagination Style"
+msgstr ""
+
+#: core/admin/config/framework.config.php:378
+msgid "Number"
+msgstr ""
+
+#: core/admin/config/framework.config.php:379 
+#: core/libraries/janstudio/hooks/helper.php:1257 
+#: core/libraries/vendors/woocommerce/templates/loop/pagination.php:30
+msgid "Load More"
+msgstr ""
+
+#: core/admin/config/framework.config.php:386
+msgid "Enable Infinite Scroll"
+msgstr ""
+
+#: core/admin/config/framework.config.php:393
+msgid "Enable Isotope Category Filter"
+msgstr ""
+
+#: core/admin/config/framework.config.php:400
+msgid "Exclude sub-categories in filter"
+msgstr ""
+
+#: core/admin/config/framework.config.php:407
+msgid "Flip Product Thumbnail"
+msgstr ""
+
+#: core/admin/config/framework.config.php:413
+msgid "Number Of Column"
+msgstr ""
+
+#: core/admin/config/framework.config.php:414
+msgid "Display number of product per row"
+msgstr ""
+
+#: core/admin/config/framework.config.php:427 
+#: core/admin/config/framework.config.php:773 
+#: core/libraries/vendors/visual-composer/maps/blog.php:58 
+#: core/libraries/vendors/visual-composer/maps/instagram.php:31 
+#: core/libraries/vendors/visual-composer/maps/portfolio.php:40 
+#: core/libraries/vendors/visual-composer/maps/products.php:144
+msgid "Per Page"
+msgstr ""
+
+#: core/admin/config/framework.config.php:428 
+#: core/libraries/vendors/visual-composer/maps/products.php:145
+msgid "How much items per page to show (-1 to show all products)"
+msgstr ""
+
+#: core/admin/config/framework.config.php:446 
+#: core/admin/config/framework.config.php:510 
+#: core/admin/config/framework.config.php:687 
+#: core/admin/config/framework.config.php:719 
+#: core/admin/config/metabox.config.php:39 
+#: core/admin/config/taxonomy.config.php:29
+msgid "Select Sidebar"
+msgstr ""
+
+#: core/admin/config/framework.config.php:453 
+#: core/libraries/vendors/visual-composer/maps/product.php:21 
+#: core/libraries/vendors/visual-composer/maps/products.php:46
+msgid "Hover Style"
+msgstr ""
+
+#: core/admin/config/framework.config.php:467
+msgid "Enable Products Attribute On Product List"
+msgstr ""
+
+#: core/admin/config/framework.config.php:475
+msgid "Product Detail Setting"
+msgstr ""
+
+#: core/admin/config/framework.config.php:480
+msgid "Product Detail"
+msgstr ""
+
+#: core/admin/config/framework.config.php:485 
+#: core/admin/config/metabox.config.php:104
+msgid "Product Detail Style"
+msgstr ""
+
+#: core/admin/config/framework.config.php:497 
+#: core/admin/config/metabox.config.php:115
+msgid "Product Detail Layout"
+msgstr ""
+
+#: core/admin/config/framework.config.php:516
+msgid "Miscellaneous"
+msgstr ""
+
+#: core/admin/config/framework.config.php:521
+msgid "Enable Zoom Image"
+msgstr ""
+
+#: core/admin/config/framework.config.php:526 
+#: core/admin/config/metabox.config.php:160
+msgid "Size Guide Image"
+msgstr ""
+
+#: core/admin/config/framework.config.php:531
+msgid "Shipping & Return Content"
+msgstr ""
+
+#: core/admin/config/framework.config.php:533
+msgid "HTML allowed"
+msgstr ""
+
+#: core/admin/config/framework.config.php:537
+msgid "Other products"
+msgstr ""
+
+#: core/admin/config/framework.config.php:542
+msgid "Number of product want to show"
+msgstr ""
+
+#: core/admin/config/framework.config.php:543
+msgid "Type number only"
+msgstr ""
+
+#: core/admin/config/framework.config.php:549
+msgid "Number of product want to show on a slide"
+msgstr ""
+
+#: core/admin/config/framework.config.php:550
+msgid "Apply for related products and up-sell products"
+msgstr ""
+
+#: core/admin/config/framework.config.php:572 
+#: core/admin/config/framework.config.php:590 
+#: core/libraries/janstudio/hooks/helper.php:265 
+#: core/libraries/vendors/visual-composer/maps/blog.php:12
+msgid "Blog"
+msgstr ""
+
+#: core/admin/config/framework.config.php:583
+msgid "Enable blog title"
+msgstr ""
+
+#: core/admin/config/framework.config.php:596 
+#: core/admin/config/framework.config.php:749 
+#: core/admin/config/metabox.config.php:73
+msgid "Sub Title"
+msgstr ""
+
+#: core/admin/config/framework.config.php:597 
+#: core/admin/config/framework.config.php:750
+msgid "See our recent projects"
+msgstr ""
+
+#: core/admin/config/framework.config.php:610
+msgid "Blog Listing Setting"
+msgstr ""
+
+#: core/admin/config/framework.config.php:628 
+#: core/admin/config/framework.config.php:761
+msgid "Display number of post per row"
+msgstr ""
+
+#: core/admin/config/framework.config.php:652
+msgid "Enable featured post slider"
+msgstr ""
+
+#: core/admin/config/framework.config.php:658
+msgid "Choose posts"
+msgstr ""
+
+#: core/admin/config/framework.config.php:674
+msgid "Number of slides to show"
+msgstr ""
+
+#: core/admin/config/framework.config.php:679
+msgid " posts"
+msgstr ""
+
+#: core/admin/config/framework.config.php:695
+msgid "Blog Detail Setting"
+msgstr ""
+
+#: core/admin/config/framework.config.php:701
+msgid "Enable Blog Title"
+msgstr ""
+
+#: core/admin/config/framework.config.php:733 
+#: core/admin/config/framework.config.php:744 
+#: core/libraries/janstudio/hooks/helper.php:1306 
+#: core/libraries/vendors/visual-composer/maps/portfolio.php:23
+msgid "Portfolio"
+msgstr ""
+
+#: core/admin/config/framework.config.php:738
+msgid "Portfolio Listing"
+msgstr ""
+
+#: core/admin/config/framework.config.php:774 
+#: core/libraries/vendors/visual-composer/maps/portfolio.php:41
+msgid "How much items per page to show (-1 to show all portfolio)"
+msgstr ""
+
+#: core/admin/config/framework.config.php:786
+msgid "Typography"
+msgstr ""
+
+#: core/admin/config/framework.config.php:791
+msgid "Body Font Settings"
+msgstr ""
+
+#: core/admin/config/framework.config.php:796 
+#: core/admin/config/framework.config.php:817
+msgid "Font Family"
+msgstr ""
+
+#: core/admin/config/framework.config.php:806
+msgid "Font Size"
+msgstr ""
+
+#: core/admin/config/framework.config.php:812
+msgid "Heading Font Settings"
+msgstr ""
+
+#: core/admin/config/framework.config.php:827
+msgid "H1 Font Size"
+msgstr ""
+
+#: core/admin/config/framework.config.php:834
+msgid "H2 Font Size"
+msgstr ""
+
+#: core/admin/config/framework.config.php:841
+msgid "H3 Font Size"
+msgstr ""
+
+#: core/admin/config/framework.config.php:848
+msgid "H4 Font Size"
+msgstr ""
+
+#: core/admin/config/framework.config.php:855
+msgid "H5 Font Size"
+msgstr ""
+
+#: core/admin/config/framework.config.php:862
+msgid "H6 Font Size"
+msgstr ""
+
+#: core/admin/config/framework.config.php:874
+msgid "Color Scheme"
+msgstr ""
+
+#: core/admin/config/framework.config.php:879
+msgid "General Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:884
+msgid "Primary Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:885
+msgid "Main Color Scheme"
+msgstr ""
+
+#: core/admin/config/framework.config.php:891
+msgid "Secondary Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:892
+msgid "Secondary Color Scheme"
+msgstr ""
+
+#: core/admin/config/framework.config.php:897
+msgid "Section Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:902
+msgid "Body Background Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:908
+msgid "Body Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:914
+msgid "Heading Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:919
+msgid "Header Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:924
+msgid "Header Background Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:929
+msgid "Header Top Background Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:934
+msgid "Header Top Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:940
+msgid "Main Menu Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:946
+msgid "Main Menu Hover Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:952
+msgid "Sub Menu Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:958
+msgid "Sub Menu Hover Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:964
+msgid "Sub Menu Hover Background Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:969
+msgid "Footer Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:974
+msgid "Footer Primary Color"
+msgstr ""
+
+#: core/admin/config/framework.config.php:984 
+#: core/libraries/vendors/visual-composer/maps/member.php:36 
+#: core/libraries/vendors/visual-composer/maps/member.php:42 
+#: core/libraries/vendors/visual-composer/maps/member.php:48 
+#: core/libraries/vendors/visual-composer/maps/member.php:54 
+#: core/libraries/vendors/visual-composer/maps/member.php:60 
+#: core/libraries/vendors/visual-composer/maps/member.php:66 
+#: core/libraries/vendors/visual-composer/maps/member.php:72 
+#: core/libraries/vendors/visual-composer/maps/member.php:78
+msgid "Social Network"
+msgstr ""
+
+#: core/admin/config/framework.config.php:990
+msgid "Social Account"
+msgstr ""
+
+#: core/admin/config/framework.config.php:991
+msgid "Add New"
+msgstr ""
+
+#: core/admin/config/framework.config.php:992
+msgid "Add New Social Network"
+msgstr ""
+
+#: core/admin/config/framework.config.php:997
+msgid "URL"
+msgstr ""
+
+#: core/admin/config/framework.config.php:1002 
+#: core/libraries/vendors/visual-composer/maps/service.php:19
+msgid "Icon"
+msgstr ""
+
+#: core/admin/config/framework.config.php:1033
+msgid "Maintenance Mode"
+msgstr ""
+
+#: core/admin/config/framework.config.php:1039
+msgid "Enable Maintenance Mode"
+msgstr ""
+
+#: core/admin/config/framework.config.php:1040
+msgid ""
+"Put your site is undergoing maintenance, only admin can see the front end"
+msgstr ""
+
+#: core/admin/config/framework.config.php:1051 
+#: core/libraries/vendors/visual-composer/maps/products.php:77 
+#: core/libraries/vendors/visual-composer/maps/service.php:59
+msgid "Title"
+msgstr ""
+
+#: core/admin/config/framework.config.php:1052
+msgid "Sorry, we down for maintenance."
+msgstr ""
+
+#: core/admin/config/framework.config.php:1058
+msgid "Message"
+msgstr ""
+
+#: core/admin/config/framework.config.php:1059
+msgid "Fortunately only for a short while."
+msgstr ""
+
+#: core/admin/config/framework.config.php:1065
+msgid "Extra Content"
+msgstr ""
+
+#: core/admin/config/framework.config.php:1066
+msgid "This content will be put at right bottom, HTML is allowed"
+msgstr ""
+
+#: core/admin/config/framework.config.php:1072
+msgid "Enable Countdown"
+msgstr ""
+
+#: core/admin/config/framework.config.php:1078
+msgid "Remaining Time - Date"
+msgstr ""
+
+#: core/admin/config/framework.config.php:1118
+msgid "Remaining Time - Month"
+msgstr ""
+
+#: core/admin/config/framework.config.php:1139
+msgid "Remaining Time - Year"
+msgstr ""
+
+#: core/admin/config/metabox.config.php:16
+msgid "Page Layout Options"
+msgstr ""
+
+#: core/admin/config/metabox.config.php:27
+msgid "Page Layout"
+msgstr ""
+
+#: core/admin/config/metabox.config.php:46
+msgid "Enable page title"
+msgstr ""
+
+#: core/admin/config/metabox.config.php:66
+msgid "Enable sub-title"
+msgstr ""
+
+#: core/admin/config/metabox.config.php:75
+msgid "Do Stuff"
+msgstr ""
+
+#: core/admin/config/metabox.config.php:93
+msgid "Product Detail Layout Options"
+msgstr ""
+
+#: core/admin/config/metabox.config.php:105
+#, php-format
+msgid ""
+"Change layout for only this product. You can setup global for all product "
+"page layout at <a target=\"_blank\" href=\"%1$s\">here</a> (WooCommerce "
+"section)."
+msgstr ""
+
+#: core/admin/config/metabox.config.php:125
+msgid "Video Thumbnail"
+msgstr ""
+
+#: core/admin/config/metabox.config.php:126
+msgid "Support Vimeo & Youtube"
+msgstr ""
+
+#: core/admin/config/metabox.config.php:130
+msgid "Url"
+msgstr ""
+
+#: core/admin/config/metabox.config.php:131
+msgid "Self Hosted"
+msgstr ""
+
+#: core/admin/config/metabox.config.php:137
+msgid "Upload Video Thumbnail"
+msgstr ""
+
+#: core/admin/config/metabox.config.php:141
+msgid "Video"
+msgstr ""
+
+#: core/admin/config/metabox.config.php:142
+msgid "Select a video"
+msgstr ""
+
+#: core/admin/config/metabox.config.php:143
+msgid "Use this video"
+msgstr ""
+
+#: core/admin/config/metabox.config.php:149
+msgid "Video Thumbnail Link"
+msgstr ""
+
+#: core/admin/config/metabox.config.php:153
+msgid "New Arrival Product"
+msgstr ""
+
+#: core/admin/config/metabox.config.php:157
+msgid "Set number of days display new arrivals badge for product."
+msgstr ""
+
+#: core/admin/config/metabox.config.php:163
+#, php-format
+msgid ""
+"Upload size guide image for only this product. You can use image size guide "
+"for all product at <a target=\"_blank\" href=\"%1$s\">here</a> (WooCommerce "
+"section)."
+msgstr ""
+
+#: core/admin/config/taxonomy.config.php:19
+msgid "Product Category Layout"
+msgstr ""
+
+#: core/admin/functions/actions.php:32 
+#: core/admin/fields/typography/typography.php:107
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: core/admin/functions/actions.php:82 core/admin/fields/icon/icon.php:25
+msgid "Add Icon"
+msgstr ""
+
+#: core/admin/functions/actions.php:83
+msgid "Search a Icon..."
+msgstr ""
+
+#: core/admin/functions/actions.php:84
+msgid "Loading..."
+msgstr ""
+
+#: core/admin/functions/helpers.php:48
+msgid "This field class is not available!"
+msgstr ""
+
+#: core/admin/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: core/admin/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: core/admin/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: core/admin/fields/background/background.php:35 
+#: core/admin/fields/upload/upload.php:25
+msgid "Use Image"
+msgstr ""
+
+#: core/admin/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: core/admin/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: core/admin/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: core/admin/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: core/admin/fields/backup/backup.php:29
+msgid "!!! Reset All Options !!!"
+msgstr ""
+
+#: core/admin/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: core/admin/fields/gallery/gallery.php:21
+msgid "Add Gallery"
+msgstr ""
+
+#: core/admin/fields/gallery/gallery.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: core/admin/fields/gallery/gallery.php:23 
+#: core/libraries/vendors/woocommerce/templates/single-product/add-to-cart/variable.php:47
+msgid "Clear"
+msgstr ""
+
+#: core/admin/fields/group/group.php:21
+msgid "Adding"
+msgstr ""
+
+#: core/admin/fields/group/group.php:43 core/admin/fields/group/group.php:75
+msgid "Remove"
+msgstr ""
+
+#: core/admin/fields/icon/icon.php:26
+msgid "Remove Icon"
+msgstr ""
+
+#: core/admin/fields/image/image.php:22
+msgid "Add Image"
+msgstr ""
+
+#: core/admin/fields/sorter/sorter.php:24
+msgid "Enabled Modules"
+msgstr ""
+
+#: core/admin/fields/sorter/sorter.php:25
+msgid "Disabled Modules"
+msgstr ""
+
+#: core/admin/fields/switcher/switcher.php:20
+msgid "on"
+msgstr ""
+
+#: core/admin/fields/switcher/switcher.php:20
+msgid "off"
+msgstr ""
+
+#: core/admin/fields/typography/typography.php:73
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: core/admin/fields/typography/typography.php:79
+msgid "Google Fonts"
+msgstr ""
+
+#: core/libraries/janstudio/classes/sidebar.php:36
+msgid "Missing sidebar name."
+msgstr ""
+
+#: core/libraries/janstudio/classes/sidebar.php:38 
+#: core/libraries/janstudio/classes/sidebar.php:107
+msgid "Invalid request."
+msgstr ""
+
+#: core/libraries/janstudio/classes/sidebar.php:43 
+#: core/libraries/janstudio/classes/sidebar.php:112
+msgid "Nonce verification fails."
+msgstr ""
+
+#: core/libraries/janstudio/classes/sidebar.php:105
+msgid "Missing sidebar ID."
+msgstr ""
+
+#: core/libraries/janstudio/classes/sidebar.php:160
+msgid "Add New Sidebar"
+msgstr ""
+
+#: core/libraries/janstudio/classes/sidebar.php:171 
+#: core/libraries/vendors/visual-composer/maps/member.php:24
+msgid "Name"
+msgstr ""
+
+#: core/libraries/janstudio/classes/sidebar.php:176
+msgid "Add"
+msgstr ""
+
+#: core/libraries/janstudio/classes/sidebar.php:237
+msgid "Adding custom sidebar fails."
+msgstr ""
+
+#: core/libraries/janstudio/classes/sidebar.php:271
+msgid "Are you sure you want to remove this custom sidebar?"
+msgstr ""
+
+#: core/libraries/janstudio/classes/sidebar.php:290
+msgid "Removing custom sidebar fails."
+msgstr ""
+
+#: core/libraries/janstudio/hooks/action.php:56
+msgid "Primary Menu"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/action.php:57
+msgid "Left Menu"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/action.php:58
+msgid "Right Menu"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/action.php:59
+msgid "Footer Menu"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/action.php:78
+msgid "Primary Sidebar"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/action.php:80
+msgid "The Primary Sidebar"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/action.php:90
+msgid "Footer Area #"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/action.php:92
+#, php-format
+msgid "The #%s column in footer area"
+msgstr ""
+
+#. Author of the plugin/theme
+#: core/libraries/janstudio/hooks/action.php:134
+msgid "JanStudio"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:146 
+#: core/libraries/janstudio/hooks/helper.php:179
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:147
+msgid "By "
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:151 
+#: core/libraries/janstudio/hooks/helper.php:177 
+#: core/libraries/janstudio/hooks/helper.php:1421
+msgid ", "
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:154 
+#: core/libraries/janstudio/hooks/helper.php:1432
+#, php-format
+msgid "In %1$s"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:245
+msgid "Prev"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:246
+msgid "Next"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:264
+msgid "Home"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:266
+msgid "Shop"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:314 
+#: core/libraries/vendors/visual-composer/maps/portfolio.php:47
+msgid "Category"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:322
+msgid "Tag"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:408 
+#: core/libraries/janstudio/hooks/helper.php:412 
+#: core/libraries/janstudio/hooks/helper.php:416 
+#: core/libraries/janstudio/hooks/helper.php:423 
+#: core/libraries/janstudio/hooks/helper.php:427
+msgid " Archives"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:432
+msgid "Archives"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:443
+msgid "Author: "
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:453
+msgid "Search results for: "
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:460
+msgid "Error 404"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:464
+msgid "Front Page"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:485
+msgid "Share this post on Facebook"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:488
+msgid "Share this post on Twitter"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:491
+msgid "Share this post on Google Plus"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:494
+msgid "Share this post on Pinterest"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:497
+msgid "Share this post on Tumbr"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:537
+msgid "About Author"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:580
+msgid "Related Articles"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:636
+msgid "Pingback:"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:638 
+#: core/libraries/janstudio/hooks/helper.php:677
+msgid "Edit"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:653
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:660
+msgid "Post author"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:682
+msgid "Reply"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:1258
+msgid "No More Item To Show"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:1259
+msgid "days"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:1260
+msgid "hrs"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:1261
+msgid "mins"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:1262
+msgid "secs"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:1298
+msgid "Article"
+msgstr ""
+
+#: core/libraries/janstudio/hooks/helper.php:1460
+msgid "Select a sidebar"
+msgstr ""
+
+#: core/libraries/janstudio/widgets/instagram.php:13
+msgid "Show off your favorite Instagram photos"
+msgstr ""
+
+#: core/libraries/janstudio/widgets/instagram.php:19
+msgid "Gecko - Instagram"
+msgstr ""
+
+#: core/libraries/janstudio/widgets/instagram.php:105
+msgid "Title:"
+msgstr ""
+
+#: core/libraries/janstudio/widgets/instagram.php:120
+msgid "Number of Photos:"
+msgstr ""
+
+#: core/libraries/janstudio/widgets/instagram.php:125
+msgid "Columns (1-4):"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/init.php:89
+msgid "Filter"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/init.php:123
+msgid "WooCommerce Top Sidebar"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/init.php:125
+msgid ""
+"The sidebar area for woocommerce, It will display on top of archive product "
+"page"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/init.php:134
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/init.php:136
+msgid ""
+"The woocommerce sidebar, It will display in archive product page on left or "
+"right"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/init.php:200 
+#: core/libraries/vendors/woocommerce/init.php:206 
+#: core/libraries/vendors/woocommerce/templates/content-product.php:86
+msgid "Quick View"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/init.php:289
+msgid "My Account"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/init.php:290
+msgid "Logout"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/init.php:292
+msgid "Login / Register"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/init.php:309
+msgid "View your shopping cart"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/init.php:345
+#, php-format
+msgid "%s has been added to your cart."
+msgid_plural "%s have been added to your cart."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libraries/vendors/woocommerce/init.php:350
+msgid "Continue Shopping"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/init.php:352
+msgid "View Cart"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/init.php:671
+msgid "Enable AJAX add to cart buttons on product detail"
+msgstr ""
+
+#: core/libraries/vendors/openswatch/templates/variable.php:41 
+#: core/libraries/vendors/woocommerce/templates/single-product/add-to-cart/variable.php:31
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: core/libraries/vendors/openswatch/templates/variable.php:94
+msgid "Clear selection"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/blog.php:13
+msgid "Show blog post by ID or title"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/blog.php:16 
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:16 
+#: core/libraries/vendors/visual-composer/maps/member.php:15 
+#: core/libraries/vendors/visual-composer/maps/portfolio.php:26 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:15 
+#: core/libraries/vendors/visual-composer/maps/service.php:15 
+#: core/libraries/vendors/visual-composer/maps/service.php:64 
+#: core/libraries/vendors/visual-composer/maps/vertical-slide.php:15 
+#: core/libraries/vendors/visual-composer/maps/vertical-slide.php:60 
+#: core/libraries/vendors/visual-composer/maps/vertical-slide.php:74 
+#: core/libraries/vendors/visual-composer/maps/vertical-slide.php:88
+msgid "Content"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/blog.php:20
+msgid "Include special posts"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/blog.php:21
+msgid "Enter posts title to display only those records."
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/blog.php:34
+msgid "Content Outside Thumbnail"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/blog.php:35
+msgid "Content Inside Thumbnail"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/blog.php:41
+msgid "Thumbnail size"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/blog.php:42
+msgid "width x height, example: 570x320"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/blog.php:50 
+#: core/libraries/vendors/visual-composer/maps/instagram.php:42 
+#: core/libraries/vendors/visual-composer/maps/products.php:210 
+#: core/libraries/vendors/visual-composer/maps/wc-categories.php:23
+msgid "2 columns"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/blog.php:51 
+#: core/libraries/vendors/visual-composer/maps/instagram.php:43 
+#: core/libraries/vendors/visual-composer/maps/products.php:211 
+#: core/libraries/vendors/visual-composer/maps/wc-categories.php:24
+msgid "3 columns"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/blog.php:52 
+#: core/libraries/vendors/visual-composer/maps/instagram.php:44 
+#: core/libraries/vendors/visual-composer/maps/products.php:212 
+#: core/libraries/vendors/visual-composer/maps/wc-categories.php:25
+msgid "4 columns"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/blog.php:59
+msgid "How much items per page to show (-1 to show all posts)"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/blog.php:65 
+#: core/libraries/vendors/visual-composer/maps/instagram.php:64 
+#: core/libraries/vendors/visual-composer/maps/products.php:151
+msgid "Enable Slider"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/blog.php:70 
+#: core/libraries/vendors/visual-composer/maps/instagram.php:85 
+#: core/libraries/vendors/visual-composer/maps/products.php:176
+msgid "Enable Auto play"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/blog.php:79 
+#: core/libraries/vendors/visual-composer/maps/instagram.php:95 
+#: core/libraries/vendors/visual-composer/maps/products.php:186 
+#: core/libraries/vendors/visual-composer/maps/vertical-slide.php:29
+msgid "Enable Navigation"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/blog.php:88 
+#: core/libraries/vendors/visual-composer/maps/instagram.php:105 
+#: core/libraries/vendors/visual-composer/maps/products.php:196
+msgid "Enable Pagination"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/blog.php:98 
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:160 
+#: core/libraries/vendors/visual-composer/maps/instagram.php:115 
+#: core/libraries/vendors/visual-composer/maps/member.php:83 
+#: core/libraries/vendors/visual-composer/maps/portfolio.php:63 
+#: core/libraries/vendors/visual-composer/maps/product.php:54 
+#: core/libraries/vendors/visual-composer/maps/products.php:237 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:50 
+#: core/libraries/vendors/visual-composer/maps/service.php:88 
+#: core/libraries/vendors/visual-composer/maps/vertical-slide.php:47 
+#: core/libraries/vendors/visual-composer/maps/wc-categories.php:37
+msgid "Extra class name"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/blog.php:99 
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:161 
+#: core/libraries/vendors/visual-composer/maps/instagram.php:116 
+#: core/libraries/vendors/visual-composer/maps/member.php:84 
+#: core/libraries/vendors/visual-composer/maps/portfolio.php:64 
+#: core/libraries/vendors/visual-composer/maps/product.php:55 
+#: core/libraries/vendors/visual-composer/maps/products.php:238 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:51 
+#: core/libraries/vendors/visual-composer/maps/service.php:89 
+#: core/libraries/vendors/visual-composer/maps/vertical-slide.php:48 
+#: core/libraries/vendors/visual-composer/maps/wc-categories.php:38
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/column.php:15 
+#: core/libraries/vendors/visual-composer/maps/column.php:40
+msgid "Background  Position"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/column.php:16 
+#: core/libraries/vendors/visual-composer/maps/column.php:41 
+#: core/libraries/vendors/visual-composer/maps/row.php:41 
+#: core/libraries/vendors/visual-composer/maps/row.php:66
+msgid "Sets the starting position of a background image."
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/column.php:17 
+#: core/libraries/vendors/visual-composer/maps/column.php:42 
+#: core/libraries/vendors/visual-composer/maps/row.php:42 
+#: core/libraries/vendors/visual-composer/maps/row.php:67
+msgid "Design Options"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/column.php:22 
+#: core/libraries/vendors/visual-composer/maps/column.php:47 
+#: core/libraries/vendors/visual-composer/maps/row.php:47 
+#: core/libraries/vendors/visual-composer/maps/row.php:72
+msgid "Left Top"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/column.php:23 
+#: core/libraries/vendors/visual-composer/maps/column.php:48 
+#: core/libraries/vendors/visual-composer/maps/row.php:48 
+#: core/libraries/vendors/visual-composer/maps/row.php:73
+msgid "Left Center"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/column.php:24 
+#: core/libraries/vendors/visual-composer/maps/column.php:49 
+#: core/libraries/vendors/visual-composer/maps/row.php:49 
+#: core/libraries/vendors/visual-composer/maps/row.php:74
+msgid "Left Bottom"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/column.php:25 
+#: core/libraries/vendors/visual-composer/maps/column.php:50 
+#: core/libraries/vendors/visual-composer/maps/row.php:50 
+#: core/libraries/vendors/visual-composer/maps/row.php:75
+msgid "Right Top"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/column.php:26 
+#: core/libraries/vendors/visual-composer/maps/column.php:51 
+#: core/libraries/vendors/visual-composer/maps/row.php:51 
+#: core/libraries/vendors/visual-composer/maps/row.php:76
+msgid "Right Center"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/column.php:27 
+#: core/libraries/vendors/visual-composer/maps/column.php:52 
+#: core/libraries/vendors/visual-composer/maps/row.php:52 
+#: core/libraries/vendors/visual-composer/maps/row.php:77
+msgid "Right Bottom"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/column.php:28 
+#: core/libraries/vendors/visual-composer/maps/column.php:53 
+#: core/libraries/vendors/visual-composer/maps/row.php:53 
+#: core/libraries/vendors/visual-composer/maps/row.php:78
+msgid "Center Top"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/column.php:29 
+#: core/libraries/vendors/visual-composer/maps/column.php:54 
+#: core/libraries/vendors/visual-composer/maps/row.php:54 
+#: core/libraries/vendors/visual-composer/maps/row.php:79
+msgid "Center Center"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/column.php:30 
+#: core/libraries/vendors/visual-composer/maps/column.php:55 
+#: core/libraries/vendors/visual-composer/maps/row.php:55 
+#: core/libraries/vendors/visual-composer/maps/row.php:80
+msgid "Center Bottom"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:14
+msgid "Google Maps"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:21
+msgid "Address"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:27
+msgid "Zoom Level ( 0 -> 20 )"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:33
+msgid "Latitude"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:39
+msgid "Longitude"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:45
+msgid "Width"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:46 
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:53
+msgid "Numeric value only, Unit is Pixel."
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:52
+msgid "Height"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:59
+msgid "Marker"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:69
+msgid "Marker Image"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:70
+msgid "Change default Marker."
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:79
+msgid "Content Info Map"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:80
+msgid "Strong, br are accepted."
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:89
+msgid "Show content info map"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:101
+msgid "Show Traffic"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:109
+msgid "Draggable"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:121
+msgid "Hide Control"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:129
+msgid "Scroll wheel zooming"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:137
+msgid "Map Type"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:140
+msgid "ROADMAP"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:141
+msgid "SATELLITE"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:142
+msgid "HYBRID"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:143
+msgid "TERRAIN"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:148
+msgid "Map style"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:151
+msgid "None"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:152
+msgid "Subtle Grayscale"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:153
+msgid "Blue water"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:154
+msgid "Pale Dawn"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/google-maps.php:155
+msgid "Shades of Grey"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/instagram.php:12
+msgid "Instagram"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/instagram.php:15
+msgid "Social"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/instagram.php:19
+msgid "User ID"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/instagram.php:25
+msgid "Access Token"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/instagram.php:32
+msgid "How much items per page to show"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/instagram.php:39 
+#: core/libraries/vendors/visual-composer/maps/products.php:207
+msgid "This parameter is not working if slider has enabled"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/instagram.php:45
+msgid "5 columns"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/instagram.php:46
+msgid "6 columns"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/instagram.php:47
+msgid "7 columns"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/instagram.php:48
+msgid "8 columns"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/instagram.php:49
+msgid "9 columns"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/instagram.php:50
+msgid "10 columns"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/instagram.php:59
+msgid "Gutter Width"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/instagram.php:67 
+#: core/libraries/vendors/visual-composer/maps/products.php:154
+msgid "No"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/instagram.php:68 
+#: core/libraries/vendors/visual-composer/maps/products.php:155 
+#: core/libraries/vendors/visual-composer/maps/row.php:22 
+#: core/libraries/vendors/visual-composer/maps/row.php:32
+msgid "Yes"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/instagram.php:73 
+#: core/libraries/vendors/visual-composer/maps/products.php:164
+msgid "Items (Number only)"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/instagram.php:74 
+#: core/libraries/vendors/visual-composer/maps/instagram.php:86 
+#: core/libraries/vendors/visual-composer/maps/instagram.php:96 
+#: core/libraries/vendors/visual-composer/maps/instagram.php:106 
+#: core/libraries/vendors/visual-composer/maps/products.php:165 
+#: core/libraries/vendors/visual-composer/maps/products.php:177 
+#: core/libraries/vendors/visual-composer/maps/products.php:187 
+#: core/libraries/vendors/visual-composer/maps/products.php:197
+msgid "Slider Settings"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/instagram.php:75 
+#: core/libraries/vendors/visual-composer/maps/products.php:166
+msgid ""
+"Set the maximum amount of items displayed at a time with the widest browser "
+"width"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/member.php:12
+msgid "Member"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/member.php:19
+msgid "Avatar"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/member.php:29
+msgid "Job"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/member.php:34
+msgid "Facebook Link"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/member.php:40
+msgid "Twitter Link"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/member.php:46
+msgid "Dribbble Link"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/member.php:52
+msgid "Behance Link"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/member.php:58
+msgid "Linkedin Link"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/member.php:64
+msgid "Tumblr Link"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/member.php:70
+msgid "Pinterest Link"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/member.php:76
+msgid "Google Plus Link"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/portfolio.php:11
+msgid "All category"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/portfolio.php:33
+msgid "2 Columns"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/portfolio.php:34
+msgid "3 Columns"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/portfolio.php:35
+msgid "4 Columns"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/portfolio.php:54
+msgid "Enable Filter?"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/product.php:13 
+#: core/libraries/vendors/woocommerce/templates/cart/cart.php:35 
+#: core/libraries/vendors/woocommerce/templates/cart/cart.php:67 
+#: core/libraries/vendors/woocommerce/templates/checkout/review-order.php:25
+msgid "Product"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/product.php:14
+msgid "Show a single product by ID or SKU"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/product.php:24 
+#: core/libraries/vendors/visual-composer/maps/products.php:49
+msgid "Style 1"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/product.php:25 
+#: core/libraries/vendors/visual-composer/maps/products.php:50
+msgid "Style 2"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/product.php:26 
+#: core/libraries/vendors/visual-composer/maps/products.php:51
+msgid "Style 3"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/product.php:27 
+#: core/libraries/vendors/visual-composer/maps/products.php:52
+msgid "Style 4"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/product.php:32
+msgid "Select identificator"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/product.php:34 
+#: core/libraries/vendors/visual-composer/maps/products.php:110
+msgid "Input product ID or product SKU or product title to see suggestions"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/product.php:46
+msgid "Enable countdown for sale product"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/product.php:47
+msgid "Setup sale schedule in product page first."
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:29 
+#: core/libraries/vendors/visual-composer/maps/products.php:109
+msgid "Products"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:30
+msgid "Show multiple products by ID or SKU."
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:37
+msgid "List product style"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:40
+msgid "Grid"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:41
+msgid "Masonry"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:58
+msgid "Display"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:61
+msgid "All products"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:62
+msgid "Recent products"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:63
+msgid "Featured products"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:64
+msgid "Sale products"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:65
+msgid "Best selling products"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:66
+msgid "Top Rated Products"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:67
+msgid "Products by category"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:73
+msgid "Order By"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:78
+msgid "Date"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:80
+msgid "Author"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:81
+msgid "Modified"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:82
+msgid "Random"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:83
+msgid "Comment count"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:84
+msgid "Menu order"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:94
+msgid "Order"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:95
+#, php-format
+msgid ""
+"Designates the ascending or descending order. More at %s. Default by ASC"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:98
+msgid "Ascending"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:99
+msgid "Descending"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:132
+msgid "Product Category"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:218
+msgid "Enable Isotope Category Filter?"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/products.php:227
+msgid "Exclude sub-categories in filter?"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:12
+msgid "Promotion Banner"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:19
+msgid "Image"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:24
+msgid "Link to"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:29
+msgid "Text vertical align"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:32 
+#: core/libraries/vendors/visual-composer/maps/service.php:52
+msgid "Top"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:33
+msgid "Middle"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:34
+msgid "Bottom"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:39
+msgid "Text horizontal align"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:42 
+#: core/libraries/vendors/visual-composer/maps/service.php:54 
+#: core/libraries/vendors/visual-composer/maps/vertical-slide.php:37
+msgid "Left"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:43
+msgid "Center"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:44 
+#: core/libraries/vendors/visual-composer/maps/service.php:53 
+#: core/libraries/vendors/visual-composer/maps/vertical-slide.php:38
+msgid "Right"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:56 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:88 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:120
+msgid "Text"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:58 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:64 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:71 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:77 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:83
+msgid "Text 1"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:62 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:94 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:126
+msgid "Font size"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:69 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:101 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:133
+msgid "Line height"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:75 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:107 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:139
+msgid "Color"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:81 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:113
+msgid "Margin bottom"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:90 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:96 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:103 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:109 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:115
+msgid "Text 2"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:122 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:128 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:135 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:141 
+#: core/libraries/vendors/visual-composer/maps/promotion.php:147
+msgid "Text 3"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/promotion.php:145
+msgid "Make it as button"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/row.php:16
+msgid "Full width row?"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/row.php:17
+msgid "If checked row will be set to full width."
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/row.php:26
+msgid "Wrap Content"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/row.php:27
+msgid ""
+"Wrap content to 1170px (You can change wrapper's width in theme options."
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/row.php:40 
+#: core/libraries/vendors/visual-composer/maps/row.php:65
+msgid "Background Position"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/service.php:12
+msgid "Service"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/service.php:29
+msgid "Icon Style"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/service.php:32
+msgid "Default"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/service.php:33
+msgid "Square"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/service.php:34
+msgid "Circle"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/service.php:39
+msgid "Icon Size"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/service.php:42
+msgid "Small"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/service.php:43
+msgid "Medium"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/service.php:44
+msgid "Large"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/service.php:49
+msgid "Icon Position"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/service.php:69
+msgid "Icon Color"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/service.php:75
+msgid "Title Color"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/service.php:81
+msgid "Content Color"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/vertical-slide.php:12
+msgid "Vertical Slide"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/vertical-slide.php:22
+msgid "Speed"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/vertical-slide.php:23
+msgid "Number Only (ms)"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/vertical-slide.php:34
+msgid "Navigation Position"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/vertical-slide.php:57
+msgid "Content Left"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/vertical-slide.php:71
+msgid "Content Right"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/vertical-slide.php:85
+msgid "Section"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/wc-categories.php:13
+msgid "Product Categories"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/wc-categories.php:31
+msgid "Exclude"
+msgstr ""
+
+#: core/libraries/vendors/visual-composer/maps/wc-categories.php:32
+msgid "Enter category id to exclude (Note: separate values by commas \",\")."
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/content-product-image.php:37
+msgid "Placeholder"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/content-quickview-product.php:41
+#:  
+#: core/libraries/vendors/woocommerce/templates/single-product/product-image.php:65
+msgid "Awaiting product image"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/cart/cart.php:36 
+#: core/libraries/vendors/woocommerce/templates/cart/cart.php:85
+msgid "Price"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/cart/cart.php:37 
+#: core/libraries/vendors/woocommerce/templates/cart/cart.php:91
+msgid "Quantity"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/cart/cart.php:38 
+#: core/libraries/vendors/woocommerce/templates/cart/cart.php:108 
+#: core/libraries/vendors/woocommerce/templates/checkout/review-order.php:26 
+#: core/libraries/vendors/woocommerce/templates/checkout/review-order.php:116
+msgid "Total"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/cart/cart.php:80
+msgid "Available on backorder"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/cart/cart.php:119
+msgid "Remove this item"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/cart/cart.php:138
+msgid "Coupon"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/cart/cart.php:138
+msgid "Coupon code"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/cart/cart.php:138
+msgid "Apply Coupon"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/cart/cart.php:144
+msgid "Update Cart"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/cart/cross-sells.php:48 
+#: core/libraries/vendors/woocommerce/templates/cart/cross-sells.php:68
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/checkout/form-billing.php:33
+msgid "Billing Details"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/checkout/form-billing.php:54 
+#: core/libraries/vendors/woocommerce/templates/checkout/form-billing.php:89
+msgid "Create an account?"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/checkout/form-billing.php:64
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/checkout/form-checkout.php:48
+msgid "Your order"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/checkout/form-shipping.php:41
+msgid "Ship to a different address?"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/checkout/form-shipping.php:66
+msgid "Additional Information"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/checkout/review-order.php:69
+msgid "Subtotal"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/checkout/terms.php:16
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/emails/woo-preview-emails.php:85
+msgid "Preview Email Templates"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/emails/woo-preview-emails.php:87
+msgid "Click Here to preview all of your Email Templates with Orders"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/global/quantity-input.php:23
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/loop/loop-start.php:85
+msgid "All"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/loop/sale-flash.php:38 
+#: core/libraries/vendors/woocommerce/templates/single-product/sale-flash.php:28
+msgid "Sale"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/loop/sale-flash.php:42 
+#: core/libraries/vendors/woocommerce/templates/single-product/sale-flash.php:32
+msgid "Sold Out"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/loop/sale-flash.php:45 
+#: core/libraries/vendors/woocommerce/templates/single-product/sale-flash.php:44
+msgid "New"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/myaccount/form-login.php:37 
+#: core/libraries/vendors/woocommerce/templates/myaccount/form-login.php:56
+msgid "Login"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/myaccount/form-login.php:44
+msgid "Username or email address"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/myaccount/form-login.php:48 
+#: core/libraries/vendors/woocommerce/templates/myaccount/form-login.php:100
+msgid "Password"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/myaccount/form-login.php:59
+msgid "Remember me"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/myaccount/form-login.php:63
+msgid "Lost your password?"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/myaccount/form-login.php:77 
+#: core/libraries/vendors/woocommerce/templates/myaccount/form-login.php:114
+msgid "Register"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/myaccount/form-login.php:86
+msgid "Username"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/myaccount/form-login.php:93
+msgid "Email address"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/myaccount/form-login.php:107
+msgid "Anti-spam"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/single-product/price.php:47
+msgid "In Stock"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/single-product/price.php:49
+msgid "Out of Stock"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/single-product/rating.php:49
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libraries/vendors/woocommerce/templates/single-product/rating.php:52
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libraries/vendors/woocommerce/templates/single-product/related.php:52 
+#: core/libraries/vendors/woocommerce/templates/single-product/related.php:71
+msgid "Related product(s)"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/single-product/up-sells.php:53 
+#: core/libraries/vendors/woocommerce/templates/single-product/up-sells.php:71
+msgid "You may also like"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/extras/single/layout-1.php:97 
+#: core/libraries/vendors/woocommerce/templates/extras/single/layout-2.php:59 
+#: core/libraries/vendors/woocommerce/templates/extras/single/layout-3.php:64
+msgid "Size Guide"
+msgstr ""
+
+#: core/libraries/vendors/woocommerce/templates/extras/single/layout-1.php:100 
+#: core/libraries/vendors/woocommerce/templates/extras/single/layout-2.php:62 
+#: core/libraries/vendors/woocommerce/templates/extras/single/layout-3.php:67
+msgid "Delivery & Return"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The best woocommerce theme for online fashion store, furniture store, "
+"handemade store, organic store, wordpress personal portfolio, personal blog."
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.janstudio.net/gecko"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.janstudio.net"
+msgstr ""
